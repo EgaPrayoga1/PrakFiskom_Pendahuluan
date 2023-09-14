@@ -1,0 +1,2 @@
+# PrakFiskom_Pendahuluan
+Praktikum Fisika Komputasi_Pendahuluan
